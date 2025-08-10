@@ -20,9 +20,9 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 ## Solução
 Para finalização do projeto foram implementadas algumas moficiações:
 
-** 1**. Utilização da biblioteca Spectre.Console para construção do menu interativo
-** 2**. Funcionalidades: Cadastro de pessoas / hospedes , Cadastro de Suites, Cadastro de reservas, checkout e listagens em geral
-** 3**. Telas:
+ 1. Utilização da biblioteca Spectre.Console para construção do menu interativo
+ 2. Funcionalidades: Cadastro de pessoas / hospedes , Cadastro de Suites, Cadastro de reservas, checkout e listagens em geral
+ 3. Telas:
 
 <img width="572" height="302" alt="image" src="https://github.com/user-attachments/assets/2d9b313d-0632-4872-8585-d41a085253ef" />
     <img width="377" height="260" alt="image" src="https://github.com/user-attachments/assets/fe289b6f-b8e1-4f67-b463-b328cbd7c14a" />
