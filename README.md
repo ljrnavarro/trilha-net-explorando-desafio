@@ -24,7 +24,7 @@ Para finalização do projeto foram implementadas algumas moficiações:
 ** 2**. Funcionalidades: Cadastro de pessoas / hospedes , Cadastro de Suites, Cadastro de reservas, checkout e listagens em geral
 ** 3**. Telas:
 
-    <img width="572" height="302" alt="image" src="https://github.com/user-attachments/assets/2d9b313d-0632-4872-8585-d41a085253ef" />
+<img width="572" height="302" alt="image" src="https://github.com/user-attachments/assets/2d9b313d-0632-4872-8585-d41a085253ef" />
     <img width="377" height="260" alt="image" src="https://github.com/user-attachments/assets/fe289b6f-b8e1-4f67-b463-b328cbd7c14a" />
     <img width="392" height="275" alt="image" src="https://github.com/user-attachments/assets/07db4544-aaed-4647-b812-07c7f884d686" />
     <img width="314" height="215" alt="image" src="https://github.com/user-attachments/assets/09873c57-6dc6-43d0-b022-390638afa977" />
