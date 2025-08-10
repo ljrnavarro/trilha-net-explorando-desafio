@@ -18,4 +18,30 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 ![Diagrama de classe estacionamento](diagrama_classe_hotel.png)
 
 ## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+Para finalização do projeto foram implementadas algumas moficiações:
+
+ 1. Utilização da biblioteca Spectre.Console para construção do menu interativo
+ 2. Funcionalidades: Cadastro de pessoas / hospedes , Cadastro de Suites, Cadastro de reservas, checkout e listagens em geral
+ 3. Telas:
+    <img width="572" height="302" alt="image" src="https://github.com/user-attachments/assets/2d9b313d-0632-4872-8585-d41a085253ef" />
+    <img width="377" height="260" alt="image" src="https://github.com/user-attachments/assets/fe289b6f-b8e1-4f67-b463-b328cbd7c14a" />
+    <img width="392" height="275" alt="image" src="https://github.com/user-attachments/assets/07db4544-aaed-4647-b812-07c7f884d686" />
+    <img width="314" height="215" alt="image" src="https://github.com/user-attachments/assets/09873c57-6dc6-43d0-b022-390638afa977" />
+    <img width="348" height="220" alt="image" src="https://github.com/user-attachments/assets/a3bcaffb-772d-4344-9aee-8922dfc29a12" />
+    <img width="574" height="155" alt="image" src="https://github.com/user-attachments/assets/40bead85-137e-4aed-be1c-974b1ce219a0" />
+    <img width="578" height="308" alt="image" src="https://github.com/user-attachments/assets/3fa8a35b-4358-4f9e-aab1-3b0278165089" />
+    <img width="578" height="215" alt="image" src="https://github.com/user-attachments/assets/1fe43e34-bf33-427c-9b52-34b4dcec8a59" />
+    <img width="322" height="192" alt="image" src="https://github.com/user-attachments/assets/581557e8-2399-4ab9-83b3-9b669e904cb9" />
+    <img width="278" height="140" alt="image" src="https://github.com/user-attachments/assets/14bcf414-a625-4f82-bf28-2e88f1caba5d" />
+
+
+
+
+
+
+
+
+
+
+ 
+
