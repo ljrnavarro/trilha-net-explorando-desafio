@@ -20,7 +20,7 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 ## Solução
 Para finalização do projeto foram implementadas algumas moficiações:
 
- 1. Utilização da biblioteca Spectre.Console para construção do menu interativo
+ 1. Utilização da biblioteca Spectre.Console (https://spectreconsole.net/) para construção do menu interativo
  2. Funcionalidades: Cadastro de pessoas / hospedes , Cadastro de Suites, Cadastro de reservas, checkout e listagens em geral
  3. Telas:
 
